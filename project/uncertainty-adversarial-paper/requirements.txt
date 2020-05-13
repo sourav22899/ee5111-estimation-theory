@@ -1,5 +1,5 @@
 appnope==0.1.0
-bleach==2.0.0
+bleach==3.1.4
 certifi==2017.7.27.1
 -e git+http://github.com/tensorflow/cleverhans.git@2950bf19a184458dbd31362e97f3e9c1e95c694f#egg=cleverhans
 cycler==0.10.0
