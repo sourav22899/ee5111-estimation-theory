@@ -18,7 +18,7 @@ jsonschema==2.6.0
 jupyter-client==5.1.0
 jupyter-console==5.2.0
 jupyter-core==4.3.0
-Keras==2.0.8
+Keras==3.9.0
 MarkupSafe==1.0
 matplotlib==2.1.0
 mistune==0.8.1
